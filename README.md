@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**fabsant2004/fabsant2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hola! , Soy Fabricio Santillán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+
+
+
+<br>
+
+- Un estudiante de la UNSA (Universidad Católica de Salta) de Argentina!
+- Apasionado de las TIC :)
+- Aprendí y estoy aprendiendo programación por mi cuenta
+- Mi Instagram Personal [link](https://www.instagram.com/flast2004?igsh=MW9pNHg5OGUycWM2MQ==)
+- Estoy abierto a cualquier propuesta de capacitación para trabajar en una empresa (no es necesaria una paga).
+
